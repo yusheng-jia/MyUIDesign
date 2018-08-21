@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyUIDesign.iml" filepath="$PROJECT_DIR$/MyUIDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bottom_navigation_act/bottom_navigation_act.iml" filepath="$PROJECT_DIR$/bottom_navigation_act/bottom_navigation_act.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login_act/login_act.iml" filepath="$PROJECT_DIR$/login_act/login_act.iml" />
+      <module fileurl="file://$PROJECT_DIR$/master-detail_flow/master-detail_flow.iml" filepath="$PROJECT_DIR$/master-detail_flow/master-detail_flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navigation_drawer_act/navigation_drawer_act.iml" filepath="$PROJECT_DIR$/navigation_drawer_act/navigation_drawer_act.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scroll_act/scroll_act.iml" filepath="$PROJECT_DIR$/scroll_act/scroll_act.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scrollertest/scrollertest.iml" filepath="$PROJECT_DIR$/scrollertest/scrollertest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/setting_act/setting_act.iml" filepath="$PROJECT_DIR$/setting_act/setting_act.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tabbled_act/tabbled_act.iml" filepath="$PROJECT_DIR$/tabbled_act/tabbled_act.iml" />
+    </modules>
+  </component>
+</project>
