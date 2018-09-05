@@ -1,1 +1,1 @@
-include ':app', ':scrollertest', ':bottom_navigation_act', ':navigation_drawer_act', ':tabbled_act', ':login_act', ':scroll_act', ':setting_act', ':master-detail_flow'
+include ':app', ':dagger2demo', ':service'
